@@ -1,19 +1,21 @@
-# Windows system folders
-AppData/
-Cookies/
-Desktop/
-Documents/
-Downloads/
-Local Settings/
-My Documents/
-NTUSER.*
-ntuser.*
-Recent/
-SendTo/
-Start Menu/
-Templates/
-# Development tool folders
-.vs/
-.vscode/
-.dotnet/
-.nuget/
+# Archivos de sistema de Windows
+/[Ee]scritorio/
+/[Dd]ocumentos/
+/[Dd]escargas/
+/[Mm]úsica/
+/[Ii]mágenes/
+/[Vv]ídeos/
+/[Aa]pp[Dd]ata/
+/NTUSER.*
+/ntuser.*
+*.log1
+*.log2
+*.regtrans-ms
+*.blf
+*.ini
+
+# Archivos de herramientas de desarrollo
+/.vs/
+/.vscode/
+/.dotnet/
+/.nuget/
